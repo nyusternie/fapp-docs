@@ -14,8 +14,9 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Discover Mini Apps', slug: 'guides/discover-mini-apps' },
+						{ label: 'Become a Fan', slug: 'guides/become-a-fan' },
+						{ label: 'Become A Sponsor', slug: 'guides/become-a-sponsor' },
 					],
 				},
 				{
