@@ -1,5 +1,5 @@
 ---
-title: Discover Mini Apps
+title: How-to Discover Mini Apps
 description: How-to search and discover new + noteworthy mini apps.
 ---
 
