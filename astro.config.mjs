@@ -7,9 +7,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'FappParty 🎉 Docs',
-			social: {
-				github: 'https://github.com/nyusternie/miniapps-party',
-			},
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/nyusternie/miniapps-party' },
+			],
 			sidebar: [
 				{
 					label: 'Guides',
