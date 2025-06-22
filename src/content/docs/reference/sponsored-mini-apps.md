@@ -3,8 +3,13 @@ title: Sponsored Mini Apps
 description: A reference page in my new Starlight docs site.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+Sponsored mini apps allow builders to boost their visibility within the app community.
+
+## In The Spotlight
+
+The TOP10 mini apps in each respective category are designated as [__In The Spotlight__](https://fapp.party/spotlight).
+
+These Spotlight are featured in the Spotlight Area of the advertising sections on various pages throughout the platform.
 
 ## Further reading
 
