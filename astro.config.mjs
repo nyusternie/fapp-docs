@@ -12,9 +12,10 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'How-to Guides',
 					items: [
 						{ label: 'Discover Mini Apps', slug: 'guides/discover-mini-apps' },
+						{ label: 'Earn Rewards', slug: 'guides/earn-rewards' },
 						{ label: 'Become a Fan', slug: 'guides/become-a-fan' },
 						{ label: 'Become A Sponsor', slug: 'guides/become-a-sponsor' },
 					],
