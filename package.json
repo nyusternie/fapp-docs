@@ -1,7 +1,7 @@
 {
-  "name": "miniapps-party-docs",
+  "name": "fapp-docs",
   "type": "module",
-  "version": "25.6.18",
+  "version": "25.6.21",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

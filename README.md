@@ -1,5 +1,5 @@
 # FappParty 🎉 Documentation
 
-### https://docs.miniapps.party
+### https://docs.fapp.party
 
-Discover New Mini Apps
+Discover New + Noteworthy Mini Apps
