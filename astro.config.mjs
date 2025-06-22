@@ -18,6 +18,7 @@ export default defineConfig({
 						{ label: 'Earn Rewards', slug: 'guides/earn-rewards' },
 						{ label: 'Become a Fan', slug: 'guides/become-a-fan' },
 						{ label: 'Become A Sponsor', slug: 'guides/become-a-sponsor' },
+						{ label: 'Set Custom Notifications', slug: 'guides/set-custom-notifications' },
 					],
 				},
 				{

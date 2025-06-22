@@ -1,9 +1,9 @@
 ---
-title: Reward Distribution
+title: Daily Payouts
 description: Rewards are paid out EVERY DAY according to the following schedule.
 ---
 
-Rewards are paid out EVERY DAY according to the following schedule.
+Reward pools make payouts EVERY DAY, according to the schedule shown below.
 
 Pools are increased EVERY 8hrs (5%) from the Treasury.
 
